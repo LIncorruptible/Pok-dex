@@ -1,0 +1,53 @@
+D:\Mes_Trucs\DUT Informatique\2 ième Année\Semestre 4\C#\TD\Pokédex\bin\Debug\Pokédex.exe.config
+D:\Mes_Trucs\DUT Informatique\2 ième Année\Semestre 4\C#\TD\Pokédex\bin\Debug\Pokédex.exe
+D:\Mes_Trucs\DUT Informatique\2 ième Année\Semestre 4\C#\TD\Pokédex\bin\Debug\Pokédex.pdb
+D:\Mes_Trucs\DUT Informatique\2 ième Année\Semestre 4\C#\TD\Pokédex\bin\Debug\System.Memory.dll
+D:\Mes_Trucs\DUT Informatique\2 ième Année\Semestre 4\C#\TD\Pokédex\bin\Debug\System.Text.Json.dll
+D:\Mes_Trucs\DUT Informatique\2 ième Année\Semestre 4\C#\TD\Pokédex\bin\Debug\System.Numerics.Vectors.dll
+D:\Mes_Trucs\DUT Informatique\2 ième Année\Semestre 4\C#\TD\Pokédex\bin\Debug\System.Buffers.dll
+D:\Mes_Trucs\DUT Informatique\2 ième Année\Semestre 4\C#\TD\Pokédex\bin\Debug\System.Text.Encodings.Web.dll
+D:\Mes_Trucs\DUT Informatique\2 ième Année\Semestre 4\C#\TD\Pokédex\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Mes_Trucs\DUT Informatique\2 ième Année\Semestre 4\C#\TD\Pokédex\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Mes_Trucs\DUT Informatique\2 ième Année\Semestre 4\C#\TD\Pokédex\obj\Debug\Pokédex.csproj.AssemblyReference.cache
+D:\Mes_Trucs\DUT Informatique\2 ième Année\Semestre 4\C#\TD\Pokédex\obj\Debug\Pokédex.exe.config
+D:\Mes_Trucs\DUT Informatique\2 ième Année\Semestre 4\C#\TD\Pokédex\obj\Debug\Pokédex.csproj.CoreCompileInputs.cache
+D:\Mes_Trucs\DUT Informatique\2 ième Année\Semestre 4\C#\TD\Pokédex\obj\Debug\Pokédex.csproj.CopyComplete
+D:\Mes_Trucs\DUT Informatique\2 ième Année\Semestre 4\C#\TD\Pokédex\obj\Debug\Pokédex.exe
+D:\Mes_Trucs\DUT Informatique\2 ième Année\Semestre 4\C#\TD\Pokédex\obj\Debug\Pokédex.pdb
+C:\Users\maelr\Desktop\Pokédex\bin\Debug\Pokédex.exe.config
+C:\Users\maelr\Desktop\Pokédex\bin\Debug\Pokédex.exe
+C:\Users\maelr\Desktop\Pokédex\bin\Debug\Pokédex.pdb
+C:\Users\maelr\Desktop\Pokédex\bin\Debug\System.Memory.dll
+C:\Users\maelr\Desktop\Pokédex\bin\Debug\System.Text.Json.dll
+C:\Users\maelr\Desktop\Pokédex\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\maelr\Desktop\Pokédex\bin\Debug\System.Buffers.dll
+C:\Users\maelr\Desktop\Pokédex\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\maelr\Desktop\Pokédex\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\maelr\Desktop\Pokédex\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\maelr\Desktop\Pokédex\obj\Debug\Pokédex.csproj.AssemblyReference.cache
+C:\Users\maelr\Desktop\Pokédex\obj\Debug\Pokédex.csproj.CoreCompileInputs.cache
+C:\Users\maelr\Desktop\Pokédex\obj\Debug\Pokédex.csproj.CopyComplete
+C:\Users\maelr\Desktop\Pokédex\obj\Debug\Pokédex.exe
+C:\Users\maelr\Desktop\Pokédex\obj\Debug\Pokédex.pdb
+C:\Users\maelr\Desktop\Pokédex\bin\Debug\Newtonsoft.Json.dll
+C:\Users\maelr\Desktop\Pokédex\bin\Debug\Newtonsoft.Json.xml
+C:\Users\maelr\Desktop\Pokédex\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\maelr\Desktop\Pokédex\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\maelr\Desktop\Pokédex\bin\Debug\Pokédex.xml
+C:\Users\maelr\Desktop\Pokédex\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\maelr\Desktop\Pokédex\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\maelr\Desktop\Pokédex\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\maelr\Desktop\Pokédex\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\maelr\Desktop\Pokédex\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\maelr\Desktop\Pokédex\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\maelr\Desktop\Pokédex\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\maelr\Desktop\Pokédex\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\maelr\Desktop\Pokédex\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\maelr\Desktop\Pokédex\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\maelr\Desktop\Pokédex\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\maelr\Desktop\Pokédex\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\maelr\Desktop\Pokédex\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\maelr\Desktop\Pokédex\bin\Debug\System.Buffers.xml
+C:\Users\maelr\Desktop\Pokédex\bin\Debug\System.Memory.xml
+C:\Users\maelr\Desktop\Pokédex\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\maelr\Desktop\Pokédex\bin\Debug\System.Threading.Tasks.Extensions.xml

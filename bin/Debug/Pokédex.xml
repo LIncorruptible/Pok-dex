@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Pokédex</name>
+    </assembly>
+    <members>
+        <member name="M:Pokédex.Program.recuperationListeTypes(System.Collections.Generic.List{System.Collections.Generic.List{Pokédex.Pokemon}})">
+            <summary>
+            Fonction récupérant tous les types de Pokemon présent dans l'API.
+            </summary>
+            <param name="CollectionPokemons"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Pokédex.Program.extraireJsonPokemon(Pokédex.API)">
+            <summary>
+            Fonction qui extrait la chaine de caractères Json d'un objet API.
+            </summary>
+            <param name="API"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Pokédex.Program.convertionJsonPokemon(System.String)">
+            <summary>
+            Fonction de désérialisation d'un Json en Pokemon.
+            </summary>
+            <param name="Json"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Pokédex.Program.extraireGeneration(System.Collections.Generic.List{Pokédex.API},System.Collections.Generic.List{Pokédex.Pokemon}@,System.Collections.Generic.List{System.Collections.Generic.List{Pokédex.Pokemon}}@,System.Int32,System.Int32)">
+            <summary>
+            Fonction désérialisant une Liste d'API en une Liste de Pokemon selon des indices de parcours dans l'API.
+            </summary>
+            <param name="pokemonsAPI"></param>
+            <param name="pokemonsG"></param>
+            <param name="pokemons"></param>
+            <param name="A"></param>
+            <param name="B"></param>
+        </member>
+        <member name="M:Pokédex.Program.recuperationTypePokemon(Pokédex.Pokemon)">
+            <summary>
+            Récupère sous forme d'un string le tableau de type(s) d'un Pokemon.
+            </summary>
+            <param name="pokemon"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Pokédex.Program.afficherCollectionPokemon(System.Collections.Generic.List{System.Collections.Generic.List{Pokédex.Pokemon}},System.Boolean)">
+            <summary>
+            Affiche par Génération, tous les pokemons d'une Collection (ici Liste de Liste de Pokemon).
+            </summary>
+            <param name="CollectionPokemons"></param>
+            <param name="afficherType"></param>
+        </member>
+        <member name="M:Pokédex.Program.afficherGenerationPokemon(System.Collections.Generic.List{Pokédex.Pokemon},System.Int32)">
+            <summary>
+            Affiche tous les Pokemons d'une Liste donnée.
+            </summary>
+            <param name="ListePokemonG"></param>
+            <param name="numGeneration"></param>
+        </member>
+        <member name="M:Pokédex.Program.triageCollectionPokemonParGeneration(System.Collections.Generic.List{System.Collections.Generic.List{Pokédex.Pokemon}}@)">
+            <summary>
+            Ordonne par ordre croissant de génration une Collection de Pokemon (ici Liste de Liste de Pokemon).
+            </summary>
+            <param name="CollectionPokemons"></param>
+        </member>
+        <member name="M:Pokédex.Program.regroupeParType(System.Collections.Generic.List{System.Collections.Generic.List{Pokédex.Pokemon}},System.String)">
+            <summary>
+            Regroupe par Type tous les Pokemons d'un type voulu sous forme d'une Liste de Pokemon.
+            </summary>
+            <param name="CollectionPokemons"></param>
+            <param name="type"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Pokédex.Program.randomPokemonDuType(System.Collections.Generic.List{Pokédex.Pokemon})">
+            <summary>
+            Retourne un Pokemon aléatoire selon une Liste de Pokemon donnée.
+            </summary>
+            <param name="ListePokemonDuType"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Pokédex.Program.recuperationChaqueTypeParGeneration(System.Collections.Generic.List{System.Collections.Generic.List{Pokédex.Pokemon}},System.Collections.Generic.List{System.String})">
+            <summary>
+            Récupération d'un Pokemon pour chaque Type par génération.
+            </summary>
+            <param name="CollectionPokemons"></param>
+            <param name="Types"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Pokédex.Program.recuperationParTypeParGeneration(System.Collections.Generic.List{System.Collections.Generic.List{Pokédex.Pokemon}},System.String)">
+            <summary>
+            Récupération des Pokemons d'un Type donné pour chaque Generation.
+            </summary>
+            <param name="CollectionPokemons"></param>
+            <param name="type"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Pokédex.Program.recuperationPokemonParGeneration(System.Collections.Generic.List{System.Collections.Generic.List{Pokédex.Pokemon}},System.Int32)">
+            <summary>
+            Récuparation des Pokemons d'une Génération.
+            </summary>
+            <param name="CollectionPokemons"></param>
+            <param name="numGeneration"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Pokédex.Program.moyennePoidsPokemonParType(System.Collections.Generic.List{System.Collections.Generic.List{Pokédex.Pokemon}},System.String)">
+            <summary>
+            Donne la moyenne de poids en Kg d'un type de Pokemon.
+            </summary>
+            <param name="CollectionPokemons"></param>
+            <param name="type"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Pokédex.Program.afficherStatistiquePokemon(Pokédex.Pokemon)">
+            <summary>
+            Affiche les statistiques complètes d'un Pokemon
+            </summary>
+            <param name="pokemon"></param>
+        </member>
+        <member name="M:Pokédex.Program.afficherIntegraliteParExercices(System.Collections.Generic.List{System.Collections.Generic.List{Pokédex.Pokemon}})">
+            <summary>
+            Fonction qui exécute l'Interface graphique pour exécuter les différentes fonctions prévues aux exercices.
+            </summary>
+            <param name="CollectionPokemons"></param>
+        </member>
+        <member name="M:Pokédex.Program.updateProgressBar">
+            <summary>
+            Fonction qui met à jour la barre de progréssion prévue au chargement de l'API.
+            </summary>
+        </member>
+    </members>
+</doc>
